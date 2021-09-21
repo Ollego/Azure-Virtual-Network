@@ -7,6 +7,7 @@ The files in this repository were used to configure the network depicted below.!
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Playbook file may be used to install only certain pieces of it, such as Filebeat.
 
 [Ansible Configuration.txt](https://github.com/Ollego/Azure-Virtual-Network/files/7199507/Ansible.Configuration.txt)
+
 [Ansible Hosts.txt](https://github.com/Ollego/Azure-Virtual-Network/files/7199509/Ansible.Hosts.txt)
 [Ansible Playbook.txt](https://github.com/Ollego/Azure-Virtual-Network/files/7199511/Ansible.Playbook.txt)
 [ELK Installation.txt](https://github.com/Ollego/Azure-Virtual-Network/files/7199513/ELK.Installation.txt)
