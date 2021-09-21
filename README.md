@@ -9,11 +9,17 @@ These files have been tested and used to generate a live ELK deployment on Azure
 [Ansible Configuration.txt](https://github.com/Ollego/Azure-Virtual-Network/files/7199507/Ansible.Configuration.txt)
 
 [Ansible Hosts.txt](https://github.com/Ollego/Azure-Virtual-Network/files/7199509/Ansible.Hosts.txt)
+
 [Ansible Playbook.txt](https://github.com/Ollego/Azure-Virtual-Network/files/7199511/Ansible.Playbook.txt)
+
 [ELK Installation.txt](https://github.com/Ollego/Azure-Virtual-Network/files/7199513/ELK.Installation.txt)
+
 [Filebeat Configuration.txt](https://github.com/Ollego/Azure-Virtual-Network/files/7199514/Filebeat.Configuration.txt)
+
 [Filebeat Playbook.txt](https://github.com/Ollego/Azure-Virtual-Network/files/7199515/Filebeat.Playbook.txt)
+
 [Metribeat Configuration.txt](https://github.com/Ollego/Azure-Virtual-Network/files/7199516/Metribeat.Configuration.txt)
+
 [Metricbeat Playbook.txt](https://github.com/Ollego/Azure-Virtual-Network/files/7199517/Metricbeat.Playbook.txt)
 
 
